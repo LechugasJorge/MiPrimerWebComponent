@@ -1,0 +1,15 @@
+<script src="main3.js"></script>
+
+<h1>Ejercicio 3 con Web component</h1>
+<p>Actualizamos atributos del web component </p>
+<hr>
+<button>Cambiar a gift</button>
+<mi-componente-imagen></mi-componente-imagen>
+
+<script>
+    document.querySelector('button')
+    .addEventListener('click',function(){
+        document.querySelector('mi-componente-imagen')
+        .setAttribute('gif',' ')
+    })
+</script>
