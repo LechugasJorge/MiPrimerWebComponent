@@ -7,7 +7,7 @@
 - 🙏 **Agradecimiento a Midudev:** Expreso mi gratitud a Midudev por la inspiración y la enseñanza continua. Este proyecto es un pequeño homenaje a la comunidad de aprendices que se benefician de su contenido educativo.
 
 ## ¿Cómo Contribuir?
-Si tienes sugerencias, mejoras o correcciones, ¡estoy entusiasmado por recibirlas! Consulta las pautas de contribución en el archivo `CONTRIBUTING.md` para obtener más detalles.
+Si tienes sugerencias, mejoras o correcciones, ¡estoy entusiasmado por recibirlas! 
 
 ## Aprendizaje Continuo
 Este proyecto refleja mi compromiso con el aprendizaje continuo y la mejora constante. Únete a la comunidad, comparte tus ideas y aprendamos juntos.
